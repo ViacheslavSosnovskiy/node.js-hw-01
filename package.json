@@ -1,0 +1,24 @@
+{
+  "name": "node.js-hw-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "start:dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViacheslavSosnovskiy/node.js-hw-01.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViacheslavSosnovskiy/node.js-hw-01/issues"
+  },
+  "homepage": "https://github.com/ViacheslavSosnovskiy/node.js-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
