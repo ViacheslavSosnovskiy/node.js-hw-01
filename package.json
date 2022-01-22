@@ -20,5 +20,10 @@
   "homepage": "https://github.com/ViacheslavSosnovskiy/node.js-hw-01#readme",
   "devDependencies": {
     "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "commander": "^8.3.0",
+    "uuid": "^8.3.2",
+    "yargs": "^17.3.1"
   }
 }
